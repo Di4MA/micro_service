@@ -52,7 +52,7 @@ my-backend-project/
 
 1. Клонируйте репозиторий:
    ```bash
-   git clone <ссылка на ваш репозиторий>
+   git clone <ссылка>>
    cd my-backend-project
    ```
 
